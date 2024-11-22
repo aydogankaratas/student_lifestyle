@@ -1,7 +1,7 @@
 # student_lifestyle
 # Öğrenci Yaşam Biçimi Keşifsel Veri Analizi
 
-Öğrenci yaşam biçimi veri seti öğrencilerin gün içinde saatlerini hangi aktiviler için ne kadar harcadığını, stres seviyelerini ve başarı notlarını tutan bir veri setidir. Veri setine ulaşmak için aşağıda verilen Kaggle bağlantısını takip edebilir ve değişkenler hakkındaki bilgilere aşağıdan ulaşabilirsiniz.
+Öğrenci yaşam biçimi veri seti, öğrencilerin gün içinde saatlerini hangi aktiviler için ne kadar harcadığını, stres seviyelerini ve başarı notlarını tutan bir veri setidir. Veri setine ulaşmak için aşağıda verilen Kaggle bağlantısını takip edebilir ve değişkenler hakkındaki bilgilere aşağıdan ulaşabilirsiniz.
 
 Öğrenci Yaşam Biçimi Veri Seti: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
 

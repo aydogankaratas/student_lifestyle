@@ -1,6 +1,6 @@
 # student_lifestyle
 # Öğrenci Yaşam Biçimi Keşifsel Veri Analizi
-<img src="dataset-cover.jpg" alt="Resim Açıklaması" width="1000" height="500" />
+<img src="dataset-cover.jpg" alt="Resim Açıklaması" width="990" height="500" />
 
 
 Öğrenci yaşam biçimi veri seti, öğrencilerin gün içinde saatlerini hangi aktiviler için ne kadar harcadığını, stres seviyelerini ve başarı notlarını tutan bir veri setidir. Veri setine ulaşmak için aşağıda verilen Kaggle bağlantısını takip edebilir ve değişkenler hakkındaki bilgilere aşağıdan ulaşabilirsiniz.

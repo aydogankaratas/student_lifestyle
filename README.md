@@ -1,4 +1,4 @@
-# Öğrenci Yaşam Biçimi Keşifsel Veri Analizi
+# Öğrenci Yaşam Biçimi Keşifsel Veri Analizi [Global AI Hub]
 <img src="dataset-cover.jpg" alt="Resim Açıklaması" width="990" height="500" />
 
 

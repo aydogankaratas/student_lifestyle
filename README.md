@@ -1,4 +1,3 @@
-# student_lifestyle
 # Öğrenci Yaşam Biçimi Keşifsel Veri Analizi
 <img src="dataset-cover.jpg" alt="Resim Açıklaması" width="990" height="500" />
 
@@ -9,7 +8,7 @@
 
 Bonus: Kaggle Hesabım [Aydoğan Karataş](https://www.kaggle.com/aydoankarata)
 
-**Değişkenler**
+#### Değişkenler
 
 * `Student_ID`: Öğrencilere 1'den başlanarak atanan kimlik numarasıdır.
 * `Study_Hours_Per_Day`: Öğrencilerin gün içerisinde çalışmaya ayırdıkları saat miktarıdır.
@@ -43,6 +42,7 @@ Veriler veri setinde bir yerde kümelenmişse, örneğin belirli bir sütunda, o
 
 
 ## Temel Bulgular
+
 * Veri seti 8 sütun 2000 kayıt içermektedir.
 
 * Stres seviyesi sütunu object değere sahip kategorik değişken iken diğer sütunlar nümerik değişken olarak tespit edilmiştir.

@@ -6,7 +6,7 @@
 
 Öğrenci Yaşam Biçimi Veri Seti: [Student-Lifestyle](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset)
 
-Bonus: Kaggle Hesabım [Aydoğan Karataş](https://www.kaggle.com/aydoankarata)
+Kaggle Hesabım: [Aydoğan Karataş](https://www.kaggle.com/aydoankarata)
 
 #### Değişkenler
 
